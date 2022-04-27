@@ -1,12 +1,11 @@
 ## Hi there 👋
 
-<!--
+TAGTEACH Is a site in the field of programming and IT. It expands its services daily.
+Shares his projects in GitHub.
+In order to use the projects, the source must be mentioned and removing the source will be prosecuted.
 
-**Here are some ideas to get you started:**
+## سلام 👋
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+تگ تچ یک سایت در زمینه برنامه نویسی و IT میباشد.روزانه خدمات خود را گسترش میدهد.
+در گیت هاب پروژه های خود را به اشتراک میگذارد.
+جهت استفاده از پروژه ها حتما باید منبع ذکر گردد و حذف منبع پیگرد قانونی دارد.
